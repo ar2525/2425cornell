@@ -1,0 +1,6 @@
+Hi, my name is Yuanze Bao, 
+my hometown is a small city called Langfang near Beijing. 
+I graduated from University of Toronto with majoring in Statistics, minor in CS and Mathmatics. 
+Im currently pursing the focus area of information technology of MPS program. 
+The reason I chose this project is this is a project related to software and I want to be a software development engineering after graduating. 
+I have learned a variety of programming languages and data structures during my undergraduate time, and my potential role for this project is the back end part.
