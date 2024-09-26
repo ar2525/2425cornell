@@ -1,0 +1,10 @@
+Hi all! I'm Sasha. I'm from New Jersey, and just wrapped up my undergrad in Pennsylvania (at Lehigh University). 
+I'm really into the Pokemon video games, as well as a myriad of creative hobbies (drawing, music, and crocheting, to name a few).
+For my undergrad, I was in an integrated degree program where I studied computer science, a bunch of humanities, and engineering ethics. 
+This really formed my current academic/professional interests: I don't have my sights set on Big Tech, but I'd like to be doing something 
+around ethical computing/preventing the harms that can be caused by large-scale computing systems. My senior project was creating a 
+(basic) simulation of YouTube, to try and observe how YouTube (and other social media sites) use their recommendation algorithms to 
+funnel people towards politically extreme content. Super upbeat and cheery stuff. From this project, I'm looking to get whatever 
+experience I can working on a project that isn't just for a class/grade. I'm hoping it will be a reasonable amount of challenge---I know 
+that I know how to code, but because my degree isn't a plain old CS degree I worry that I'm behind my peers in terms of software 
+development/coding more broadly. I'm really excited to start the project, regardless, and I hope my contributions will be meaningful!
