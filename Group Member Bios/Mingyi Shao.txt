@@ -1,0 +1,8 @@
+I hope this email finds you well. My name is Mingyi Shao, and I am on the Cornell MPS team for the Database Leaderboard ML project. 
+I’m from Shanghai, China. I majored in physics for undergraduate studies at Fudan University in China. 
+The Beatles is one of my favorite bands and I even took a class about it at Cornell. 
+I primarily took classes in data science and machine learning at Cornell. 
+I am passionate about deriving insights from data and presenting them effectively. 
+This summer, I interned at the Middleby Corporation, where I conducted data analysis on user activity and service information for equipment across 5 Middleby divisions. 
+I expect the project to be a full-stack project that touches on the full cycle of software development and the integration of machine learning into software. 
+I am excited to work on this project and hope to learn the latest practices in the industry and apply what I have learned about data science and machine learning in a real-world setting. 
