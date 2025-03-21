@@ -1,0 +1,7 @@
+My name is Zixuan Wang, and I am originally from Fujian province, China. 
+I completed my undergraduate studies at the University of Arizona, majoring in mathematics and minoring in economics. 
+During my time as an undergraduate, I realized that I am more interested in how mathematics can be applied across different fields, rather than just focusing on pure mathematics. 
+This realization led me to continue my education at Cornell University.
+While I have experience with some programming languages, my background is not in computer science. 
+Therefore, I am excited to use this project as an opportunity to further develop my coding skills. 
+I look forward to contributing my strengths and collaborating with the team!
